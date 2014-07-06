@@ -1,0 +1,5 @@
+这次备份了三个数据库文件，分别如下：
+	localhost.sql：通过phpmyadmin备份的整个数据库。　里边包含两个表。　其中一个是zzqhost.com用到的。
+	avvkotzb_emlog.sql: 通过phpmyadmin备份的 avvkotzb_emlog这一个表。
+	emlog_20140706_170012.zip: 是通过emlog后台备份的数据库。
+
